@@ -4,6 +4,10 @@ A Chrome MV3 extension + FastAPI backend + Claude that reads quiz questions on a
 LMS, custom HTML quizzes), explains them, checks your answers instantly, and can **solve a whole quiz for
 you** (scrolling, clicking, and typing by itself).
 
+![App Screenshot](./ss2.png)
+
+![App Screenshot](./ss1.png)
+
 ## What it can do
 
 ### Practice Mode (checks answers instantly)
