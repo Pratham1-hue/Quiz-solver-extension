@@ -1,0 +1,19 @@
+# Python backend
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Node / extension
+node_modules/
+dist/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Screenshots and local artifacts
+Screenshot *.png
